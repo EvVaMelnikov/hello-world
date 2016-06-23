@@ -1,3 +1,4 @@
 # hello-world
 Just another repository.
-This is just a sample of the pen
+This is just a sample of the pen.
+Hello everyone!
